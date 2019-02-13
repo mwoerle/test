@@ -1,1 +1,0 @@
-g++ -Wall -std=c++14 main.cpp Bruch.cpp Vektor2.cpp -o bruch
